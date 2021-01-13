@@ -6,11 +6,10 @@
     <title>Document</title>
 </head>
 <body>
-    
     <?php
-        echo "<h1> Hello<br>Prachinburi </h1>";
-         
-        ?>
-    
+        for($i = 1 ; $i <= 10 ; $i++) {
+            echo $i. " ";
+        }
+    ?>
 </body>
-</html>
+</html> 
