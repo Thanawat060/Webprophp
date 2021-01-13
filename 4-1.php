@@ -18,10 +18,10 @@
         echo $x;    echo"<br />";
         echo $y."<br/>";
         echo $z."<br/>";
-        echo $add."<br/>";
-        echo $sub."<br/>";
-        echo $mul."<br/>";
-        echo $div."<br/>";
+        echo "ผลบวก ". $add."<br/>";
+        echo "ผลลบ ". $sub."<br/>";
+        echo "ผลคูณ ". $mul."<br/>";
+        echo "ผลหาร ". $div."<br/>";
         echo $message."<br/>";
         ?>
 </body>
