@@ -42,7 +42,7 @@
         }
         else echo $num3 ;
     }
-    if($choice = "avg"){
+    if($choice == "avg"){
         echo "Average = ",($num1+$num2+$num3)/3 ;
     }
 }

@@ -211,7 +211,7 @@ th, td {
   <br>
   </center>
   <?php 
-    echo "<h5>Credit : NTM";
+    
         
         }
     ?>
